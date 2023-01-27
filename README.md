@@ -1,6 +1,6 @@
 # Drupal Toolbox 
 
-Valuable tools and shortcuts for your Drupal Websites.
+Valuable tools and shortcuts for your Drupal Website Development Process.
 
 Manage your Drupal Websites with ease.
 
